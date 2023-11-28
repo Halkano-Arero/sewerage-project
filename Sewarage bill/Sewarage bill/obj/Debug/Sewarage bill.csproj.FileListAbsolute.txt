@@ -1,0 +1,7 @@
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\bin\Debug\Sewarage bill.exe.config
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\bin\Debug\Sewarage bill.exe
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\bin\Debug\Sewarage bill.pdb
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\obj\Debug\Sewarage bill.csproj.AssemblyReference.cache
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\obj\Debug\Sewarage bill.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\obj\Debug\Sewarage bill.exe
+C:\Visual Studio Code\Sewarage bill\Sewarage bill\obj\Debug\Sewarage bill.pdb
